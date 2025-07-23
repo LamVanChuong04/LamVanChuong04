@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,spring,java,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode,figma,postman" />
 </div>
-  <br/><br/><br/>
+  <br/>
 <hr/>
 <br>
 <div align="center">
